@@ -1,0 +1,19 @@
+###
+GET http://127.0.0.1:8000/good-morning/
+Accept: application/json
+
+###
+GET http://127.0.0.1:8000/library-info/
+Accept: application/json
+###
+GET http://127.0.0.1:8000/book-info
+Accept: application/json
+###
+GET http://127.0.0.1:8000/student/
+Accept: application/json
+###
+GET http://127.0.0.1:8000/all-books/
+Accept: application/json
+###
+GET http://127.0.0.1:8000/employee/
+Accept: application/json
